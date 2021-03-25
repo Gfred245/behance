@@ -1,3 +1,3 @@
 // coded by @lasjorg
 // eslint-disable-next-line no-unused-vars
-const projectName = 'Personal Portfolio';
+const projectName = 'index';
